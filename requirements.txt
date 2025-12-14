@@ -1,0 +1,2 @@
+pyexiftool>=0.5.6
+fpdf>=1.7.2
